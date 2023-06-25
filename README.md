@@ -4,8 +4,10 @@
 	<p>
 		<b>A light syntax theme for Php/WebStorm</b>
 	</p>
-	<br>
-	<br>
+</div>
+
+ <div align="center">
+  <img alt="JetBrains plugins" src="https://img.shields.io/jetbrains/plugin/d/21940-early-riser-syntax-color-scheme">
 </div>
 
 Early Riser is a light syntax theme for JetBrains' IDEs for all you early risers out there, ported and enhanced from the awesome original color scheme [Early Riser Syntax for VS Code](https://github.com/mikemcbride/vscode-early-riser) by [Mike McBride](https://github.com/mikemcbride/).
